@@ -1,7 +1,6 @@
 ## Licensing summary
-- Code: MIT (see code/LICENSE) 
+- Code: MIT 
 - Data: Permission required.
-- Docs/Figures: CC BY 4.0 (optional; if you also want attribution here)
 
 ## Data
 
