@@ -19,33 +19,8 @@ the procedures described in the article and Supplemental Material.
 This repository contains the data and code supporting the results presented in the study. Below is a description of the contents of the Data and Codes directories.
 
 📁 Data
-Summary Files
-pars_quiet.csv
-Fitted model parameters during quiet breathing for each bird.
 
-pars_song.csv
-Fitted model parameters during song production for each bird.
-
-Bird-Specific Data
-Each bird has a corresponding folder inside the Data directory. Bird identifiers are listed in Table 2 of the Supplemental Material. Within each bird's folder:
-
-data_<bird_name>.csv
-Columns: time, expiratory EMG, total force, air sac pressure, and sound during song production.
-
-data_quiet_<bird_name>.csv
-Columns: time, force, and air sac pressure during quiet breathing.
-
-magnification_quiet_<bird_name>.csv
-Columns: frequencies and magnification values for quiet breathing parameters.
-
-magnification_song_<bird_name>.csv
-Columns: frequencies and magnification values for song production parameters.
-
-quiet_rate_<bird_name>.csv
-Column: measured breathing periods during quiet breathing.
-
-song_rate_labels_<bird_name>.csv
-Columns: breathing periods during song and corresponding labels based on pressure pattern clustering.
+See at: https://doi.org/10.5281/zenodo.15636149
 
 📁 Codes
 All scripts are written in Python. Summary Files.
